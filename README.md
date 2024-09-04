@@ -202,3 +202,12 @@ Useful libraries or tools that don't fit in the categories above.
 
 Your contributions are welcome, just send me a Pull Request!.
 
+## Star History
+
+<a href="https://star-history.com/#01walid/awesome-arabic&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=01walid/awesome-arabic&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=01walid/awesome-arabic&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=01walid/awesome-arabic&type=Date" />
+ </picture>
+</a>
